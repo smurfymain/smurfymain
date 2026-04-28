@@ -2,9 +2,9 @@
 
 just building stuff and gaming mostly. here for a good time and some coding for fun.
 
-#### 🕹️ current status
+#### 🕹️ about me
 - 🎮 probably in a game right now
-- 🤖 coding with some help from AI 
+- 🤖 coding with some help from AI
 - 📍 based in turkey 🇹🇷
 
 ## 🔗 connect
@@ -18,4 +18,4 @@ just building stuff and gaming mostly. here for a good time and some coding for 
 </p>
 
 ## 📊 stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smurfymain&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smurfymain&show_icons=true&theme=dark&hide_border=true&border_radius=10)
