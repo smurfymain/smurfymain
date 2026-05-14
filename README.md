@@ -16,6 +16,3 @@ just building stuff and gaming mostly. here for a good time and some coding for 
     <img src="https://img.shields.io/badge/Discord-smurfymain-7289DA?logo=discord&logoColor=white" />
   </a>
 </p>
-
-## 📊 stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smurfymain&show_icons=true&theme=dark&hide_border=true&border_radius=10)
